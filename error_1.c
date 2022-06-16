@@ -3,7 +3,7 @@
 
 /**
  * stderr_usage - usage error.
- * Return: EXIT_FAILURE
+ * Return: EXIT_FAILURE 
  */
 void stderr_usage(void)
 {
