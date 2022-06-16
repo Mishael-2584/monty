@@ -26,7 +26,7 @@ void pint_e(unsigned int line_number)
 
 /**
  * op_e - math func error messagess.
- * @line_number: line number of the instruction.
+ * @line_number: line number of the instruction. 
  * @op: Operation where the error occurred.
  * Return: EXIT_FAILURE
  */
